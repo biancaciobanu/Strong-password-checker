@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649583725 source:d:\probleme cb\problema4_umt_software\main.cpp
+	<iostream>
+	<cstring>
+	<bits/stdc++.h>
+
